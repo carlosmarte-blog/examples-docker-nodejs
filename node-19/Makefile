@@ -1,7 +1,7 @@
 DOCKER_REPO=carlosmarte
 TARGET=base
 PORT=3000
-APP_NAME=nodejs16_$(TARGET)
+APP_NAME=nodejs19_$(TARGET)
 APP_VERSION=latest
 
 .PHONY: help
